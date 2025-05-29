@@ -48,7 +48,9 @@ git push -u origin main
 
 - `GET /availability?title=<título>`: Busca una película y devuelve su información
 
-### Ejemplo de respuesta
+### Ejemplo de respuesta a la siguiente url
+
+https://movie-api-xfxx.onrender.com/availability?title=Inception
 
 ```json
 {
